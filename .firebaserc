@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "myportfolio-dd735",
+    "staging": "myportfolio-dd735"
+  },
+  "targets": {},
+  "etags": {}
+}

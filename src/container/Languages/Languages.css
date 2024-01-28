@@ -1,0 +1,16 @@
+.languages-items {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    column-gap: 3rem;
+    justify-content: center;
+}
+
+.languages-items img {
+    width: 50px;
+    height: auto;
+}
+
+.languages-items p {
+    margin-bottom: var(--m-1);
+}
